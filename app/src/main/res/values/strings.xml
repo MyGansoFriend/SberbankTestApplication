@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SberbankTestApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exitDialog">Exit</string>
+    <string name="base_url">https://habrahabr.ru/rss/hubs/all/</string>
+    <string name="date">Дата публикации :</string>
+    <string name="update">update</string>
+    <string name="action_reload">reload</string>
+</resources>
