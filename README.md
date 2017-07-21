@@ -1,7 +1,6 @@
-# SberbankTestApplication
 
 #  Тестовое задание для роли “Разработчик Android”
-# Швабрашвабр 
+### Швабрашвабр 
 Просмотр RSS хабра: https://habrahabr.ru/rss/hubs/all/. Вывод списком со всеми атрибутами: теги, хабы и т.п. (это всё есть в RSS). Можно добавить pull-to-refresh.
 Обязательные требования:
 * Код пишется только на Java. Kotlin/Scala/Brainfuck и т.п.
